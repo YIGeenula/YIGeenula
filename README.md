@@ -1,12 +1,10 @@
 <div align="center">
 
-
-  <img align="top" alt="coding"  src="https://github.com/YIGeenula/JanuaryRepo01/assets/156918976/a8841132-6e1b-4571-8e9f-679d165d090c"> 
-
+  <img align="top" alt="coding"  src=https://github.com/YIGeenula/YIGeenula/assets/156918976/6811510f-17e8-4830-872a-0a4b07189878> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hello+There...+I'm+Geenula" alt="Typing SVG" /></a>
 <br>
-Home Based Coding Enthusiast 🏡💻
+Home-Based Coding Enthusiast 🏡💻
   
 
 
