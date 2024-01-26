@@ -21,7 +21,7 @@ Home-Based Coding Enthusiast 🏡💻
 
 <a href="http://www.github.com/YIGeenula"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YIGeenula&stroke=10b981&background=181824&ring=3382ed&fire=3382ed&currStreakNum=10b981&currStreakLabel=3382ed&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
-<a href="https://github.com/YIGeenula" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIGeenula&langs_count=10&title_color=3382ed&text_color=10b981&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!--<a href="https://github.com/YIGeenula" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIGeenula&langs_count=10&title_color=3382ed&text_color=10b981&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
   <br></br>
 
