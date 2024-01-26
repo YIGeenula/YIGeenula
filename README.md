@@ -14,7 +14,7 @@ Home-Based Coding Enthusiast 🏡💻
   <a href="https://www.facebook.com/geenula"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="facebook logo"/></a>
   <a href="https://www.linkedin.com/in/yigeenula/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"/></a> 
 
-  <br></br>
+  <br>
 
 ## 📊 GitHub Stats:
 <a href="http://www.github.com/YIGeenula"><img src="https://github-readme-stats.vercel.app/api?username=YIGeenula&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=10b981&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="YIGeenula's GitHub stats" /></a>
@@ -47,12 +47,12 @@ Home-Based Coding Enthusiast 🏡💻
   <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="50" alt="Figma"/></a>
   <img width="5"/>
 
-  <br></br>
+  <br>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=YIGeenula&theme=radical&margin-w=7)](https://github.com/YIGeenula/github-profile-trophy)
 
-  <br></br>
+  <br>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
