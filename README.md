@@ -6,7 +6,7 @@
 
 Home-Based Coding Enthusiast 🏡💻 
 
-## 🌐 Socials: 
+## 🌐 Socials
   <a href="https://www.youtube.com/@GamesTubeLK"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"/></a>
   <a href="https://www.instagram.com/geenuuss"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"/></a>
   <a href="https://twitter.com/YGeenula"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"/></a>
@@ -16,7 +16,7 @@ Home-Based Coding Enthusiast 🏡💻
 
   <br>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <a href="http://www.github.com/YIGeenula"><img src="https://github-readme-stats.vercel.app/api?username=YIGeenula&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=10b981&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="YIGeenula's GitHub stats" /></a>
 
 <br>
@@ -27,7 +27,7 @@ Home-Based Coding Enthusiast 🏡💻
 
   <br>
 
-## 🤖 Languages and Tools:
+## 🤖 Languages and Tools
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"/></a>
   <img width="5"/>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"/></a>
