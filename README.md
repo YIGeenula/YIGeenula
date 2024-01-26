@@ -4,24 +4,59 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hello+There...+I'm+Geenula" alt="Typing SVG" /></a> <br>
 
-Home-Based Coding Enthusiast 🏡💻
+Home-Based Coding Enthusiast 🏡💻 
 
 ## 🌐 Socials: 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bChWQMrq6W) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/geenula) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geenuuss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yigeenula) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@games_tube_lk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YGeenula) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@GamesTubeLK) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Geenula&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Geenula&theme=radical&hide_border=false)<br/> <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geenula&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <a href="https://www.youtube.com/@GamesTubeLK"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"/></a>
+  <a href="https://www.instagram.com/geenuuss"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"/></a>
+  <a href="https://twitter.com/YGeenula"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"/></a>
+  <a href="https://discord.com/users/geenuuss"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"/></a>
+  <a href="https://www.facebook.com/geenula"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="facebook logo"/></a>
+  <a href="https://www.linkedin.com/in/yigeenula/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"/></a> 
+
+  <br></br>
+
+## 📊 GitHub Stats:
+<a href="http://www.github.com/YIGeenula"><img src="https://github-readme-stats.vercel.app/api?username=YIGeenula&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=10b981&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="YIGeenula's GitHub stats" /></a>
+
+<a href="http://www.github.com/YIGeenula"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YIGeenula&stroke=10b981&background=181824&ring=3382ed&fire=3382ed&currStreakNum=10b981&currStreakLabel=3382ed&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+
+<a href="https://github.com/YIGeenula" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YIGeenula&langs_count=10&title_color=3382ed&text_color=10b981&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+  <br></br>
+
+## 🤖 Languages and Tools:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"/>
+  <img width="5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"/>
+  <img width="5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"/>
+  <img width="5"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" height="50" alt="PHP"/>
+  <img width="5"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="50" alt="Bootstrap"/>
+  <img width="5"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" height="50" alt="Photoshop"/>
+  <img width="5"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" height="50" alt="Illustrator"/>
+  <img width="5"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" height="50" alt="Premiere Pro"/>
+  <img width="5"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="50" alt="Figma"/>
+  <img width="5"/>
+
+  <br></br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Geenula&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YIGeenula&theme=radical&margin-w=7)](https://github.com/YIGeenula/github-profile-trophy)
 
-### ✍️ Random Dev Quote
+  <br></br>
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YIGeenula) 
+
+<a href="https://www.buymeacoffee.com/YIGeenula"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
