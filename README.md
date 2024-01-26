@@ -26,23 +26,23 @@ Home-Based Coding Enthusiast 🏡💻
   <br></br>
 
 ## 🤖 Languages and Tools:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"/></a>
   <img width="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"/>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"/></a>
   <img width="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"/></a>
   <img width="5"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" height="50" alt="PHP"/>
+  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" height="50" alt="PHP"/></a>
   <img width="5"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="50" alt="Bootstrap"/>
+  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="50" alt="Bootstrap"/></a>
   <img width="5"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" height="50" alt="Photoshop"/>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" height="50" alt="Photoshop"/></a>
   <img width="5"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" height="50" alt="Illustrator"/>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" height="50" alt="Illustrator"/></a>
   <img width="5"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" height="50" alt="Premiere Pro"/>
+  <a href="https://www.adobe.com/products/premiere.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" height="50" alt="Premiere Pro"/></a>
   <img width="5"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="50" alt="Figma"/>
+  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="50" alt="Figma"/></a>
   <img width="5"/>
 
   <br></br>
