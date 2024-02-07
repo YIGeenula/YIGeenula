@@ -16,7 +16,7 @@ Home-Based Coding Enthusiast 🏡💻
   <a href="https://www.tiktok.com/@games_tube_lk"><img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"/></a> 
   <br>
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 <a href="http://www.github.com/YIGeenula"><img src="https://github-readme-stats.vercel.app/api?username=YIGeenula&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=10b981&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="YIGeenula's GitHub stats" /></a>
 
 <br>
