@@ -7,7 +7,7 @@
 Home-Based Coding Enthusiast 🏡💻 
 
 ## 🌐 Socials
-  <a href="https://twitter.com/YGeenula"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"/></a>
+  <a href="https://twitter.com/YGeenula"><img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"/></a>
   <a href="https://discord.com/users/geenuuss"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"/></a>
   <a href="https://www.facebook.com/geenula"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="facebook logo"/></a>
   <a href="https://www.linkedin.com/in/yigeenula/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"/></a> 
