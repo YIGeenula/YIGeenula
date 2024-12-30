@@ -12,6 +12,7 @@ Home-Based Coding Enthusiast 🏡💻
   <a href="https://www.facebook.com/geenula"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="facebook logo"/></a>
   <a href="https://www.linkedin.com/in/yigeenula/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"/></a> 
   <a href="https://www.behance.net/yigeenula"><img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=053eff&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="Behance logo"/></a> 
+  <a href="https://www.figma.com/@yigeenula"><img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=a259ff&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="Behance logo"/></a> 
   <br>
 
 ## 📈 GitHub Stats
