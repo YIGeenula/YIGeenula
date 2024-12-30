@@ -7,13 +7,11 @@
 Home-Based Coding Enthusiast 🏡💻 
 
 ## 🌐 Socials
-  <a href="https://www.youtube.com/@GamesTubeLK"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"/></a>
-  <a href="https://www.instagram.com/geenuuss"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"/></a>
   <a href="https://twitter.com/YGeenula"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"/></a>
   <a href="https://discord.com/users/geenuuss"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"/></a>
   <a href="https://www.facebook.com/geenula"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="facebook logo"/></a>
   <a href="https://www.linkedin.com/in/yigeenula/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"/></a> 
-  <a href="https://www.tiktok.com/@games_tube_lk"><img src="https://img.shields.io/static/v1?message=Tiktok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"/></a> 
+  <a href="https://www.behance.net/yigeenula"><img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=053eff&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="Behance logo"/></a> 
   <br>
 
 ## 📈 GitHub Stats
