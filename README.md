@@ -38,6 +38,9 @@ Home-Based Coding Enthusiast 🏡💻
   <img width="5"/>
   <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="50" alt="Bootstrap"/></a>
   <img width="5"/>
+  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="50" alt="react"/></a>
+  <img width="5"/>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" height="50" alt="Photoshop"/></a>
   <img width="5"/>
-  <a href="https://www.adobe.com/products/illustrator.html"><img
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" height="50" alt="illustrator"/></a>
+  <img width="5"/>
