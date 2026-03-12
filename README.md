@@ -48,8 +48,8 @@ Home-Based Coding Enthusiast 🏡💻
 
   <br>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YIGeenula&theme=radical&margin-w=7)](https://github.com/YIGeenula/github-profile-trophy)
+<!--## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=YIGeenula&theme=radical&margin-w=7)](https://github.com/YIGeenula/github-profile-trophy)-->
 
   <br>
 
